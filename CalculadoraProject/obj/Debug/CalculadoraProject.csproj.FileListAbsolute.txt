@@ -1,0 +1,10 @@
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\bin\Debug\CalculadoraProject.exe.config
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\bin\Debug\CalculadoraProject.exe
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\bin\Debug\CalculadoraProject.pdb
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.csproj.AssemblyReference.cache
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.Form1.resources
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.Properties.Resources.resources
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.csproj.GenerateResource.cache
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.exe
+C:\Users\Hank\Downloads\CalculadoraProject-master\CalculadoraProject-master\CalculadoraProject\obj\Debug\CalculadoraProject.pdb
